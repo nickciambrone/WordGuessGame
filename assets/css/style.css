@@ -1,0 +1,43 @@
+body{ 
+
+}
+h1 {
+    text-align: center;
+}
+.menu {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    width:45%;
+    text-align: left;
+    line-height: 100px;
+    border-style: groove;
+    border-width: 4px;
+    border-color: black;
+    position: relative;
+    top:50px;
+}
+.underscore{
+    text-align: center;
+    font-size: 44px;
+    letter-spacing: 12px;
+}
+#wins{
+    
+}
+#losses{
+}
+guesssLeft{}
+guessesSoFar{}
+header{
+    border-style: dotted;
+}
+.hello{
+    position: relative;
+    top:20px;
+    background-color: darkgray;
+    border-style: dashed;
+    width:50%;
+}
+header{
+    background-color: darkgray;
+}
